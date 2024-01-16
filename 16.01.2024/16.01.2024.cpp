@@ -246,7 +246,7 @@ int main()
 	str--;
 	str.output();
 	str++;
-	str1.output();
+	str.output();
 
 	
 	int size = 1;       //Contact
